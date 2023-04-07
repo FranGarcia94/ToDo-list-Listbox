@@ -12,6 +12,8 @@
 
 # Introduction
 
+<img width="344" alt="image" src="https://user-images.githubusercontent.com/107102754/230670096-4e1fe037-6461-47d0-b379-6da8df7815cb.png">
+
 If we take a look at my repository we can see a graphical interface that emulates a calendar/agenda where you can write down events, appointments, meetings or things to do on specific days.
 
 However, it didn't work as a general ToDo-List which is exactly what we have here.
